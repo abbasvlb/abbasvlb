@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**abbasvlb/abbasvlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World!
 
-Here are some ideas to get you started:
+Myself `abbas aniefa`, mobile architect with android, iOS and React Native knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## [About Me]
+
+- 🚀 A Passionate Android Developer 
+- 🔭 I’m currently working on Enterprice Mobile apps development.
+- 🌱 I’m currently learning Jetpack Compose and React Native.<br />
+- 👯 I’m looking to collaborate on YouTube
+- 🥅 2022 Goals: Contribute more to Open Source projects
